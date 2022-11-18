@@ -1,0 +1,52 @@
+1:Python is caaled general purpose bacause it can be used to create a variety of different programs and isn't specialized for any specific problems.
+  python is also called high-level programing bacause it is not subject to the processor.
+
+2:Python is caaled a dynamically typed language because you don't have to declear the type of variable.It does itself when the code runs.
+
+3:Pros-
+  (a)python is simple,read and easy to maintain.
+  (d)Python has several collection of libraries.
+ cons-
+  (a)It is a high memory consumption language.
+  (b)It is slow processing language.
+
+4:No not at all, python is not suitable for game development,machine learning,web development and the list  goes on.
+
+5:Variable ia a name given to the memory location and we can declear it by assigning values.
+
+6:we take input by using input ( ) funtion.
+
+7:String datatype.
+
+8:Type casting is the process of converting datatype into a certain datatype.
+  Type casting is also called type conversion.
+
+9:
+
+10:They are actual reserved words,which convey a specific meaning.Each language has a set of keywords like if,else,elif and the list goes on.
+
+11:Keywords can not be used as a variable,when you try to put keywords as a variable it will give syntax.
+
+12:Indentation refers to the space.It is used to indicate block of code.
+
+13:we use print ( ) funtion to throw output in python.
+
+14:operators are symbols thst is responsible for a particular operation.
+
+15:/ is used for division and // is used for floor division.
+
+16:
+
+17:
+
+18:The logical operatos like (AND,OR,NOT or AND NOT) are called boolean operator.
+
+19:
+
+20:if,else and elif are known as conditional statements in python.
+
+21:if-It is used to check the given condition is true.
+   elif-when the previous condtion is not true like (if) then we used this keyword.
+   else-else  statement  used in python helps automate that decision making process.
+
+22:
